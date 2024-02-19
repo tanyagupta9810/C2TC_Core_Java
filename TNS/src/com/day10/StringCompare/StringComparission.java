@@ -1,4 +1,4 @@
-package com.day10;
+package com.day10.StringCompare;
 
 public class StringComparission {
 

@@ -1,4 +1,4 @@
-package com.day11;
+package com.day11.array1D;
 
 public class Array1D {
 

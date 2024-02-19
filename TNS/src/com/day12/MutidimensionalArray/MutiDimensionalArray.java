@@ -1,4 +1,4 @@
-package com.day12;
+package com.day12.MutidimensionalArray;
 
 public class MutiDimensionalArray {
 

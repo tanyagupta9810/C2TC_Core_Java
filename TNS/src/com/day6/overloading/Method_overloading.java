@@ -1,4 +1,4 @@
-package com.day6;
+package com.day6.overloading;
 
 public class Method_overloading {
 	 int addition(int a, int b) {

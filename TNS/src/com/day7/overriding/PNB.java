@@ -1,15 +1,16 @@
-package com.day7;
+package com.day7.overriding;
 //subclass
-public class SBI extends RBI{
+public class PNB extends RBI {
+
 	@Override
 	public float getrateOfInterest() {
 		// TODO Auto-generated method stub
-		return 7.1f;
+		return 7.8f;
 	}
 
 	@Override
 	public String toString() {
-		return "SBI [getrateOfInterest()=" + getrateOfInterest() + "]";
+		return "PNB [getrateOfInterest()=" + getrateOfInterest() + "]";
 	}
-	
+
 }

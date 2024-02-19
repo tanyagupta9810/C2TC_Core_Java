@@ -1,4 +1,4 @@
-package com.day7;
+package com.day7.overriding;
 
 public class MethodOverriding {
 

@@ -1,4 +1,4 @@
-package com.day9;
+package com.day9.string;
 
 public class StringHandling {
 
